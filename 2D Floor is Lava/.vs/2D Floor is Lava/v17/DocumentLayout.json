@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|c:\\users\\\u0456\u043B\u043B\u044E\u0448\u043A\u0430\\2d floor is lava\\assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\assets\\scripts\\gamestartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\assets\\scripts\\lavaanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D055328-64B2-FD2D-3245-09CE9711E2A8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lavaanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:25:40.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameStartManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\GameStartManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameStartManager.cs",
+              "ToolTip": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\GameStartManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameStartManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:05:33.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LavaAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\LavaAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LavaAnimation.cs",
+              "ToolTip": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\LavaAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LavaAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:43:21.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T19:37:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlatformSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ToolTip": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\PlatformSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlatformSpawner.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwv08AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:46:47.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T18:35:32.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\\u0406\u043B\u043B\u044E\u0448\u043A\u0430\\2D Floor is Lava\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:20:21.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
